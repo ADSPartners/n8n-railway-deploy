@@ -1,0 +1,11 @@
+{
+  "build": {
+    "env": {
+      "N8N_BASIC_AUTH_ACTIVE": "true",
+      "N8N_BASIC_AUTH_USER": "adsadmin",
+      "N8N_BASIC_AUTH_PASSWORD": "ContraseñaSegura123",
+      "WEBHOOK_URL": "https://<PROYECTO>.up.railway.app",
+      "EXECUTIONS_PROCESS": "main"
+    }
+  }
+}
